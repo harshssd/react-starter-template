@@ -1,0 +1,35 @@
+{
+  "name": "react-starter-template",
+  "version": "1.0.0",
+  "description": "Starter template for starting a React Project.",
+  "main": "server.js",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshssd/react-starter-template.git"
+  },
+  "keywords": [
+    "React",
+    "react-basics",
+    "react",
+    "dev",
+    "env",
+    "react-starter"
+  ],
+  "author": "Harsha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshssd/react-starter-template/issues"
+  },
+  "homepage": "https://github.com/harshssd/react-starter-template#readme",
+  "dependencies": {
+    "babel-core": "^6.18.0",
+    "babel-loader": "^6.2.5",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-react": "^6.16.0",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2"
+  }
+}
